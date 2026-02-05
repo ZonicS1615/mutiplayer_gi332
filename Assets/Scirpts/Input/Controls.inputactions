@@ -27,7 +27,7 @@
                 {
                     "name": "Aim",
                     "type": "Value",
-                    "id": "372fd0f8-28e7-424e-9c10-db62a14ee0c3",
+                    "id": "5abdda82-a65e-42e2-a093-61cd4285d175",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -191,7 +191,7 @@
                 },
                 {
                     "name": "",
-                    "id": "b9099b07-7268-4975-ad7a-1b3ca383e4d4",
+                    "id": "1befa5a4-d5db-407e-ac5e-75adf457c923",
                     "path": "<Mouse>/position",
                     "interactions": "",
                     "processors": "",
